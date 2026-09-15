@@ -1,1 +1,30 @@
+Privacy Policy for Εψιλον-6
+Effective Date: September 15, 2026
 
+This Privacy Policy explains how Εψιλον-6 ("the Bot"), developed by Ray Excuator, collects, uses, and protects your information. By using the Bot, you agree to the data practices described in this policy.
+
+1. Information We Collect
+To function correctly, Εψιλον-6 automatically processes and may temporarily or permanently store certain data from Discord, including:
+- Discord User IDs & Usernames: To identify users, execute commands, and save user-specific preferences/settings.
+- Discord Server (Guild) IDs & Channel IDs: To map features to specific servers and send automated messages to designated channels.
+- Command Usage Data: Log data regarding which commands are used, when they are executed, and by whom (used strictly for error monitoring and bot optimization).
+- Message logs for moderation: To review changed message, as well as deleted message in case of moderation.
+
+2. How We Use Your Information
+We use the collected data solely to:
+- Provide, maintain, and secure the core features of Εψιλον-6.
+- Troubleshoot technical bugs and analyze usage trends.
+- Enforce bans against users who violate our Terms of Service.
+
+3. Data Sharing and Third Parties
+No Sale of Data: The Author does not, and will never, sell, rent, or trade your personal data to third parties.
+
+Discord Platform: Data is processed through the official Discord API and is subject to Discord's own Privacy Policy.
+
+4. Data Retention and Deletion
+Retention: We only keep your data for as long as necessary to provide the Bot's services. If the Bot is kicked from a server, server-specific data is automatically rendered inactive.
+
+Your Right to Deletion: You have the right to request that your data be entirely wiped from our database. To request data deletion, join our Support Server or contact us using the information below.
+
+5. Contact
+For privacy concerns or data removal requests, please reach out via our Discord User: rayexcuator7613
